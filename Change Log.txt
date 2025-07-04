@@ -1,0 +1,4 @@
+- Change file type to php
+- include header and footer
+- closing tag for main is in footer
+- create table w_project_1
